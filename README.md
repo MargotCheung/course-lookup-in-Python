@@ -16,14 +16,14 @@ pip install numpy
 Enter student ID to see how many courses the student has enrolled
 <br>
 Enter course ID to see the list of participants
-<br>
+<br><br>
 
-#### Demo
+### Demo
 
 By student ID
 <br>
-<img src="https://github.com/MargotCheung/course-search-in-Python/blob/main/search_SID.jpg?raw=true" width="300" height="300">
-<br>
+<img src="https://github.com/MargotCheung/course-search-in-Python/blob/main/search_SID.jpg?raw=true" width="400" height="200">
+<br><br>
 By course ID
 <br>
 <img src="https://github.com/MargotCheung/course-search-in-Python/blob/main/search_CID.jpg?raw=true" width="300" height="300">
